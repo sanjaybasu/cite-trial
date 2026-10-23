@@ -1,6 +1,6 @@
 # CITE trial: code
 
-Code for "Randomized trial of a language model verifier for AI care plans in Medicaid primary care" (ClinicalTrials.gov NCT07718893; analysis pre-registered at https://doi.org/10.17605/OSF.IO/ENXCW).
+Code for "Randomized trial of a language model verifier for AI care plans in Medicaid primary care" (ClinicalTrials.gov NCT07718893; analysis plan posted at https://osf.io/vb5f3 on 13 July 2026, before the first enrollment).
 
 This repository holds code only. It contains no patient data, clinical notes, identifiers, adjudication sheets, or randomization keys. Aggregate results are posted at ClinicalTrials.gov.
 
