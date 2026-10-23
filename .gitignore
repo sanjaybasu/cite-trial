@@ -1,0 +1,15 @@
+# code only: never commit data or outputs
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.xlsx
+*.docx
+*.pdf
+*.png
+*.md
+!README.md
+PRIVATE_*
+__pycache__/
+.env
+*.key
